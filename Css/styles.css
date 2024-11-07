@@ -3,7 +3,7 @@
     --secondaryCOlor : #333646;
     --acsentColor : #FF9100;
 }
-p
+
 body {
     background-color: var(--mainColor);
     min-height: 900px;
